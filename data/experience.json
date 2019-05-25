@@ -1,0 +1,20 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Januari 2016 - Mei 2016",
+			"company" : "Cafe Papyrus",
+				"description" : "Setelah lulus SMP, saya bekerja di Cafe Papyrus di tempatkan di bagian Weaters. Cafe ini beralamat di Jl. Joglo Raya No.11B Joglo-Kembangan, Kota Jakarta Pusat."
+			},
+		{
+			"timeperiod" : "Januari 2019 - Februari 2019",
+			"company" : "GEGES KOMPUTER",
+			"description" : "Pada tanggal 2 Januari 2019 SMK Hemaz Karangwareng menyelenggarakan Praktik Kerja Industri (PRAKERIN), dan saya memilih PRAKERIN di Toko Geges Komputer.  "
+		},
+		{
+			"timeperiod" : "1 Maret 2019 - 8 Maret 2019",
+			"company" : "GEGES KOMPUTER",
+			"description" : "Setelah melaksanakan PRAKERIN, Saya di Perbolehkan untuk kerja Part-time di Toko GEGES KOMPUTER, Saya di tempatkan di bagian Service Komputer. Saya kerja Part-time di GEGES KOMPUTER tidak Berlangsung lama di karenakan susah membagi waktu."
+		}
+	]
+}
